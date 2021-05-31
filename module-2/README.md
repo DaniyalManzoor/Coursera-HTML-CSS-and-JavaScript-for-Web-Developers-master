@@ -2,4 +2,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://DaniyalManzoor.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/module-2/index.html)
+# To see the output [CLICK HERE](https://daniyalmanzoor.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-master/module-2/index.html)
