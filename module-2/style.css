@@ -45,7 +45,8 @@ h1 {
 }
 
 .content {
-  padding: 3rem 1rem 1rem 1rem;
+  text-align: justify;
+  padding: 4rem 1.5rem 2rem 1.5rem;
 }
 
 .name1 {
