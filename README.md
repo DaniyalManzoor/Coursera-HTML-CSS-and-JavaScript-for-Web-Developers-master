@@ -12,7 +12,7 @@ This repository contains all of the source code used in the course called HTML, 
 
 # Outputs :
 
-- [Module-2](https://daniyalmanzoor.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-master/module-2/index.html)
+- [Module-2](https://daniyalmanzoor.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-master/module-2/)
 - [Module-3](https://daniyalmanzoor.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-master/module-3/index.html)
 - [Module-4](https://daniyalmanzoor.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-master/module-4/index.html)
 - [Module-5](https://daniyalmanzoor.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-master/module-5/index.html)
